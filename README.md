@@ -5,3 +5,4 @@
 #ML Assignment 2  :https://github.com/Tharun1312/AIML_2024/blob/main/ML%20assignment%202.ipynb
 
 #ML Assignment 3  :https://github.com/Tharun1312/AIML_2024/blob/main/ML_3_.ipynb
+#ML Assignment 4  :https://github.com/Tharun1312/AIML_2024/blob/main/2203A51598_ML_4.ipynb
