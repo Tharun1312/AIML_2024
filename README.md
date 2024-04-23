@@ -6,3 +6,4 @@
 # ML Assignment 3  :https://github.com/Tharun1312/AIML_2024/blob/main/ML_3_.ipynb
 # ML Assignment 4  :https://github.com/Tharun1312/AIML_2024/blob/main/2203A51598_ML_4.ipynb
 # ML Assignment 5 :https://github.com/Tharun1312/AIML_2024/blob/main/ML%20Assignment%205.ipynb
+# ML Assignment 6 :https://github.com/Tharun1312/AIML_2024/blob/main/2203a51598_ML6.ipynb
